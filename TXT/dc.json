@@ -1,8 +1,8 @@
 {
 "storeHouse": [
 
-{"sourceName":"1 号仓库","sourceUrl":"https://agit.ai/wwz09/ubuntu/raw/branch/master/TXT/mr.json"},
-{"sourceName":"2 号仓库","sourceUrl":"https://agit.ai/wwz09/ubuntu/raw/branch/master/TXT/dc1.json"},
-{"sourceName":"3 号仓库","sourceUrl":"https://agit.ai/wwz09/ubuntu/raw/branch/master/TXT/dc2.json"},
-{"sourceName":"4 号仓库","sourceUrl":"https://agit.ai/wwz09/ubuntu/raw/branch/master/TXT/dc3.json"}
+{"sourceName":"1 号仓库","sourceUrl":"https://fastly.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/mr.json"},
+{"sourceName":"2 号仓库","sourceUrl":"https://fastly.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/dc1.json"},
+{"sourceName":"3 号仓库","sourceUrl":"https://fastly.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/dc2.json"},
+{"sourceName":"4 号仓库","sourceUrl":"https://fastly.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/dc3.json"}
 ]}
