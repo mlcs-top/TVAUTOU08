@@ -1,8 +1,8 @@
 {
 "storeHouse": [
 
-{"sourceName":"1 号仓库","sourceUrl":"https://raw.kkgithub.com/wwz09/ubuntu/main/TXT/mr.json"},
-{"sourceName":"2 号仓库","sourceUrl":"https://raw.kkgithub.com/wwz09/ubuntu/main/TXT/dc1.json"},
-{"sourceName":"3 号仓库","sourceUrl":"https://raw.kkgithub.com/wwz09/ubuntu/main/TXT/dc2.json"},
-{"sourceName":"4 号仓库","sourceUrl":"https://raw.kkgithub.com/wwz09/ubuntu/main/TXT/dc3.json"}
+{"sourceName":"1 号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/mr.json"},
+{"sourceName":"2 号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc1.json"},
+{"sourceName":"3 号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc2.json"},
+{"sourceName":"4 号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc3.json"}
 ]}

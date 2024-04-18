@@ -1,6 +1,6 @@
 {"urls":
 [
-{"url":"https://raw.kkgithub.com/wwz09/ubuntu/main/main.json","name":"自用"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/main.json","name":"自用"},
 {"name":"🚀精简砂锅","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"},
 {"url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json","name": "🚀PG线路"},
 {"url": "http://饭太硬.top/tv","name": "🚀饭太硬线路"},
