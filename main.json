@@ -3,7 +3,7 @@
 
 
 {
-"spider":"./JAR/pg.jar;md5;04d74f2c921acbc9a2e20bd880a6e630",
+"spider":"./jar/pg.jar;md5;39762f095f1442f6519b52b08b9e325d",
 //"spider":"./JAR/fm.jar",
 //"spider":"./JAR/Yoursmile.jar",
 //"spider":"./JAR/fanty.jar",
@@ -48,9 +48,6 @@
 {"key": "Iktv","name": "MV | KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
 {"key": "Yinyuetai","name": "MV | 音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0},
 
-{"key":"drpy_js_酷云77","name":"影视 | 酷云77","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
-{"key":"drpy_js_快看","name":"影视 | 快看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
-{"key":"drpy_js_爱看","name":"影视 | 爱看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys_d.js"},
 {"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key":"drpy_js_Auete","name":"影视 | Auete","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Auete.js"},
