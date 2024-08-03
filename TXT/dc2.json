@@ -1,13 +1,14 @@
 {
-    "urls": [
+"urls": [
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com//wwz09/ubuntu/main/main.json","name":"自用"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/影视/api.json","name":"影视"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/动漫/api.json","name":"动漫"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/文艺/api.json","name":"文艺"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/体育/api.json","name":"体育"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/教育/api.json","name":"教育"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/直播/api.json","name":"直播"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/磁力/api.json","name":"磁力"},
-{"url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox_warehouse@main/云盘/api.json","name":"云盘"}
-     ]
-   }
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json","name":"大而全的配置"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0822.json","name":"极简配置"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.txt","name":"小而精的配置"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json","name":"饭太硬"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json","name":"fongmi"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/9918.json","name":"CR9918"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json","name":"道长资源"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json","name":"香雅情"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/XBPQ.json","name":"小米小爆脾气"},
+{"url":"https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/ok.txt","name":"ok"}
+]}
