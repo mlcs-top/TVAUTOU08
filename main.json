@@ -65,18 +65,6 @@
        
         
         {
-            "key": "南瓜弹幕",
-            "name": "南瓜｜弹幕",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "厂长弹幕",
             "name": "厂长｜弹幕",
             "type": 3,
@@ -243,25 +231,8 @@
             "filterable": 1,
             "ext": "./影视/XYQHiker/短剧屋.json"
         },
-        {
-            "key": "韩小圈",
-            "name": "韩小圈｜APP",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "追剧猫",
-            "name": "追剧猫｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
-        },
+        
+        
         {
             "key": "酷影视",
             "name": "酷影视｜APP",
@@ -272,25 +243,7 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-        {
-            "key": "丘丘影视",
-            "name": "丘丘｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://111.173.115.204:2211/api.php/app/"
-        },
-        {
-            "key": "南瓜影视",
-            "name": "南瓜｜APP",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "天天影视",
             "name": "天天｜APP",
@@ -328,15 +281,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "笙歌影视",
-            "name": "笙歌｜APP",
-            "type": 3,
-            "api": "csp_AppYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "忍者影视",
             "name": "忍者｜APP",
