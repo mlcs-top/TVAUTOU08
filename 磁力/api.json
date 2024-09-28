@@ -1,6 +1,6 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;308dabe9c096459415912ff76cd06ed1",
-    "wallpaper": "https://api.likepoems.com/img/bing",
+    "spider": "./spider.jar;md5;308dabe9c096459415912ff76cd06ed1",
+    "wallpaper":"./JPG/01.jpg",
     "sites": [
         {
             "key": "豆瓣",
