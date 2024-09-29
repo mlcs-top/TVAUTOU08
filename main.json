@@ -57,7 +57,7 @@
         },
         {
             "key": "预告",
-            "name": "豆瓣｜预告",
+            "name": "新片｜预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
@@ -600,13 +600,6 @@
             "type": 3,
             "api": "./影视/JS/drpy2.min.js",
             "ext": "./影视/JS/碟调影视.js"
-        },
-        {
-            "key": "欧帝影院",
-            "name": "欧帝｜影视",
-            "type": 3,
-            "api": "./影视/JS/drpy2.min.js",
-            "ext": "./影视/JS/欧帝影院.js"
         },
         {
             "key": "畅梦影视",
