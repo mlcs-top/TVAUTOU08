@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "./Yoursmile.jar;md5;435DEB939629CE4B15EF4FF785BF18D2",
+	"spider": "./Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F",
 	"wallpaper":"./JPG/01.jpg",
 
 	"sites":[
@@ -42,6 +42,7 @@
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/虎牙直播.js"},
+{"key":"南瓜","name":"🎃南瓜","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Yoursmile/js/南瓜.js"},
 {"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/斗鱼直播.js"},
 {"key":"有声小说吧","name":"有声小说吧","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/有声小说吧.js"},
 {"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/JRKAN直播.js"},
