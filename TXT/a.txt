@@ -708,7 +708,7 @@ CCTV17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 重庆卫视,http://39.134.65.162/PLTV/88888888/224/3221225963/index.m3u8
 
 
-//223.12.185.142:8084
+
 湖南卫视,http://223.12.185.142:8084/udp/239.1.1.28:8028
 四川卫视,http://223.12.185.142:8084/udp/239.1.1.29:8029
 吉林卫视,http://223.12.185.142:8084/udp/239.1.1.30:8030
@@ -1254,71 +1254,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
-精品,#genre#
-东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-农业致富,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-惊悚悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
 
-爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-精品纪录,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-
-军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
-古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-明星大片,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
-黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
-黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
-黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-
-
-北京冬奥,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-求索纪录,http://39.134.66.110/PLTV/88888888/224/3221225713/index.m3u8
-黑莓电影,http://39.134.66.110/PLTV/88888888/224/3221225681/index.m3u8
-黑莓动画,http://39.134.66.110/PLTV/88888888/224/3221225529/index.m3u8
-爱情喜剧,http://39.134.66.110/PLTV/88888888/224/3221225533/index.m3u8
-超级电视剧,http://39.134.66.110/PLTV/88888888/224/3221225637/index.m3u8
-超级电影,http://39.134.66.110/PLTV/88888888/224/3221225644/index.m3u8
-超级体育,http://39.134.66.110/PLTV/88888888/224/3221225635/index.m3u8
-超级综艺,http://39.134.66.110/PLTV/88888888/224/3221225642/index.m3u8
-潮妈辣婆,http://39.134.66.110/PLTV/88888888/224/3221225542/index.m3u8
-东北热剧,http://39.134.66.110/PLTV/88888888/224/3221225679/index.m3u8
-北京冬奥,http://39.134.66.110/PLTV/88888888/224/3221225670/index.m3u8
-动作电影,http://39.134.66.110/PLTV/88888888/224/3221225555/index.m3u8
-古装剧场,http://39.134.66.110/PLTV/88888888/224/3221225524/index.m3u8
-欢乐剧场,http://39.134.66.110/PLTV/88888888/224/3221225682/index.m3u8
-纪实人文,http://39.134.66.110/PLTV/88888888/224/3221225673/index.m3u8
-家庭剧场,http://39.134.66.110/PLTV/88888888/224/3221225538/index.m3u8
-金牌综艺,http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8
-惊悚悬疑,http://39.134.66.110/PLTV/88888888/224/3221225553/index.m3u8
-精品大剧,http://39.134.66.110/PLTV/88888888/224/3221225536/index.m3u8
-精品纪录,http://39.134.66.110/PLTV/88888888/224/3221225545/index.m3u8
-精品体育,http://39.134.66.110/PLTV/88888888/224/3221225526/index.m3u8
-军旅剧场,http://39.134.66.110/PLTV/88888888/224/3221225560/index.m3u8
-军事评论,http://39.134.66.110/PLTV/88888888/224/3221225535/index.m3u8
-农业致富,http://39.134.66.110/PLTV/88888888/224/3221225552/index.m3u8
-武搏世界,http://39.134.66.110/PLTV/88888888/224/3221225547/index.m3u8
-炫舞未来,http://39.134.66.110/PLTV/88888888/224/3221225646/index.m3u8
-中国功夫,http://39.134.66.110/PLTV/88888888/224/3221225604/index.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-
-
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-五星体育,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 
 地方,#genre#
 黑龙江新闻法制,http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
@@ -1375,116 +1311,11 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 浙江休闲台,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
-世界,#genre#
-NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
-국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
-CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-News Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-ABC新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-Прямий,http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-国外,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-
-Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-ABC News Live美国广播公司新闻直播,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-Live Now FOX美国福克斯新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NBC News Now美国全国广播公司新闻,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-BBC英国广播公司,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-Sky News英国天空新闻台,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN美国有线电视新闻网,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 
 
-广播电台,#genre#
-动感音乐台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-民谣蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
-舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
-警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
-心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
-80后音乐,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-第1财经,https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8
-北京交通广播,http://ls.qingting.fm/live/336.m3u8
-北京新闻广播,http://ls.qingting.fm/live/339.m3u8
-北京文艺广播,http://ls.qingting.fm/live/333.m3u8
-北京音乐广播,http://ls.qingting.fm/live/332.m3u8
-北京城市广播,https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
-北京体育广播,https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
-北京经典调频,http://live.funhillrm.com/4/sd/live.m3u8
-CRI轻松调频,http://sk.cri.cn/915.m3u8
-CRI华语环球,http://sk.cri.cn/hyhq.m3u8
-CRI环球资讯 ,http://sk.cri.cn/905.m3u8
-CRI南海之声,https://sk.cri.cn/nhzs.m3u8
-CRI英语资讯,http://sk.cri.cn/am846.m3u8
-CRI世界华声,http://sk.cri.cn/hxfh.m3u8
-CNR文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-CNR交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-CNR经典音乐 ,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-CNR湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-台中广播电台,http://211.20.119.101:8081
-湖南旅游广播,https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-湖南文艺广播,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-上海故事广播,http://live.cooltv.top/tv/news1296.php?id=10
-四川文艺广播,http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-山西文艺广播 ,http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
-江苏文艺广播,http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-江苏音乐广播,http://live.cooltv.top/tv/ytradio.php?id=415
-湖南音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
-江苏故事广播,http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
-广东音乐之声,http://live.cooltv.top/tv/ytradio.php?id=489
-Hit FM劲曲,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-南京音乐广播,http://hls.njgb.com/live_hls/4/playlist.m3u8
-河北汽车音乐,https://radio.pull.hebtv.com/live/hebqcyy.m3u8
-陕西音乐广播,http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
-广州汽车音乐,https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
-深圳音乐广播,https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
-宜昌音生广播,http://play.3xgd.com/fm/qct.m3u8
-江西故事广播,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
-上海音乐广播,http://live.cooltv.top/tv/news1296.php?id=8
-上海音乐电台,http://live.cooltv.top/tv/news1296.php?id=9
-Love Radio,http://live.cooltv.top/tv/news1296.php?id=7
-上海流行音乐,http://live.cooltv.top/tv/news1296.php?id=4
-Cool Radio,http://hls.njgb.com/live_hls/8/playlist.m3u8
-河北文艺广播,http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-全国广播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
-天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-天籁国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-天籁之音 Hi-Fi  ,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-天籁经典流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
-摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
-安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-民谣蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
-民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+
+
+
 
 
 🇭🇰港台,#genre#
