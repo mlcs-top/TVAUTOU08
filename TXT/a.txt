@@ -160,16 +160,6 @@ CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
 
-CCTV4-欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
-CCTV4-欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=1
-CCTV4-欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?&encrypt=1
-
-CCTV4-美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
-CCTV4-美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?&encrypt=1
-CCTV4-美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/50/index.m3u8?&encrypt=1
-
-
-
 CCTV16,https://live.metshop.top/msp.php?id=cctv16
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
@@ -215,47 +205,6 @@ CCTV10,http://39.134.55.155/PLTV/88888888/224/3221226122/index.m3u8
 CCTV12,http://39.134.55.155/PLTV/88888888/224/3221226151/index.m3u8
 CCTV14,http://39.134.55.155/PLTV/88888888/224/3221226120/index.m3u8
 
-CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-
-CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://sxz.zccatv.cn:9901/tsfile/live/1078_1.m3u8
-CHC动作电影,http://49.235.110.121:9090/daili/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
-CHC动作电影,http://vod.cctv.cn/cms/2018-09-11/CCTV15_2m_20180911133010794-16889_video_1-001.mp4
-
-CHC家庭影院,http://49.235.110.121:9090/daili/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
-CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
-
-CHC高清电影,http://sxz.zccatv.cn:9901/tsfile/live/1079_1.m3u8
-CHC高清电影,http://49.235.110.121:9090/daili/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
-CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
-CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CHC动作电影,http://111.20.45.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC高清电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC高清电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
-中国教育1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
-中国教育1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-中国教育4,http://39.134.66.66/PLTV/88888888/224/3221225750/index.m3u8
-中国教育4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-
 
 CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
@@ -294,13 +243,6 @@ CCTV15 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
 CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-
-
-
 
 CCTV1,http://bxny.667789.cn:55055/udp/229.58.190.72:5000
 
@@ -352,24 +294,6 @@ CCTV-女性时尚,http://bxny.667789.cn:55055/udp/229.58.190.187:5000
 CCTV-世界地理,http://bxny.667789.cn:55055/udp/229.58.190.175:5000
 CCTV-文化精品,http://bxny.667789.cn:55055/udp/229.58.190.189:5000
 CCTV-央视台球,http://bxny.667789.cn:55055/udp/229.58.190.188:5000
-
-CETV-1,http://bxny.667789.cn:55055/udp/229.58.190.57:5000
-CETV-2,http://bxny.667789.cn:55055/udp/229.58.190.59:5000
-CETV-4,http://bxny.667789.cn:55055/udp/229.58.190.66:5000
-CETV-早期教育,http://bxny.667789.cn:55055/udp/229.58.190.174:5000
-中央新影-老故事,http://bxny.667789.cn:55055/udp/229.58.190.194:5000
-中央新影-中学生,http://bxny.667789.cn:55055/udp/229.58.190.99:5000
-
-CCTV1,http://bxny.667789.cn:55055/udp/229.58.190.151:5000
-CETV-1,http://bxny.667789.cn:55055/udp/229.58.190.26:5000
-CETV-4,http://bxny.667789.cn:55055/udp/229.58.190.83:5000
-CGTN-阿语,http://bxny.667789.cn:55055/udp/229.58.190.19:5000
-CGTN-西语,http://bxny.667789.cn:55055/udp/229.58.190.18:5000
-CGTN-纪录,http://bxny.667789.cn:55055/udp/229.58.190.23:5000
-CGTN-法语,http://bxny.667789.cn:55055/udp/229.58.190.8:5000
-CGTN-俄语,http://bxny.667789.cn:55055/udp/229.58.190.20:5000
-CGTN-英语,http://bxny.667789.cn:55055/udp/229.58.190.138:5000
-
 
 
 CCTV1,http://61.138.54.155:2233/hls/8/index.m3u8
@@ -445,16 +369,6 @@ CCTV13,http://112.101.78.50:9901/tsfile/live/0013_1.m3u8
 
 CCTV14 少儿,http://112.101.78.50:9901/tsfile/live/0014_1.m3u8
 CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
-
-
-CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-
-CCTV2 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-
-CCTV3 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-
-CCTV4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-
 
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
