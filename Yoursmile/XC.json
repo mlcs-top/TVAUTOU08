@@ -28,11 +28,11 @@
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Yoursmile/sub/jianpian.json"},
+{"key":"南瓜","name":"🎃南瓜","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Yoursmile/js/南瓜.js"},
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
@@ -41,13 +41,12 @@
 {"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 
+
 {"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/虎牙直播.js"},
-{"key":"南瓜","name":"🎃南瓜","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Yoursmile/js/南瓜.js"},
 {"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/斗鱼直播.js"},
 {"key":"有声小说吧","name":"有声小说吧","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/有声小说吧.js"},
 {"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/JRKAN直播.js"},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"./Yoursmile/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Yoursmile/js/88看球.js"},
-{"key":"酷奇MV","name":"🎸酷奇MV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
 {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./Yoursmile/sub/Bili.json"},
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./Yoursmile/sub/Blixs.json"},
 {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./Yoursmile/sub/Blixq.json"},
@@ -107,3 +106,4 @@
    "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","FY","fy","FeiYun","feiyun","飞云"],
    "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
    "ads":["mozai.4gtv.tv","pv.vipwm.cc"]}
+
