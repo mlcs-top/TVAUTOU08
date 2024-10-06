@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
-    "wallpaper":"./JPG/01.jpg",
+   "wallpaper":"./JPG/01.jpg",
     "sites": [
         {
             "key": "豆瓣",
@@ -210,24 +210,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "push_agent",
-            "name": "手机｜推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            },
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;ed6d20f8cf64d14f1efc46caa3c0f474"
         }
-    ],
+        
     "rules": [
         {
             "name": "磁力广告",
