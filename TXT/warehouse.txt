@@ -23,10 +23,6 @@
          {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/Yoursmile/XC.json",
             "name": "Yoursmile"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/磁力/api.json",
-            "name": "磁力"
         }
         
     ]
