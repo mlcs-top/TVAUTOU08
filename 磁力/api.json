@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
-    "wallpaper":"./JPG/01.jpg",
+   "wallpaper":"./JPG/01.jpg",
     "sites": [
        {
             "key": "豆瓣",
@@ -8,19 +8,6 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-        },
-        {
-            "key": "配置中心",
-            "name": "配置｜中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
         },
         {
             "key": "荐片弹幕",
@@ -213,6 +200,7 @@
         }
         
     ],
+        
     "rules": [
         {
             "name": "磁力广告",
