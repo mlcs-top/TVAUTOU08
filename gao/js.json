@@ -1,7 +1,10 @@
 {
 "spider":"./gao/jar/pg.jar;md5;988ca838860b1f359a048e2b177cd8a0",
+
 {"name":"a","type":0,"url":"./TXT/a.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-],
+],"lives":[
+{"name":"a","type":0,"url":"./TXT/a.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+ ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./gao/lib/drpy2.min.js","ext":"./gao/js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
