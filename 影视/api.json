@@ -16,37 +16,8 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-        {
-            "key": "本地",
-            "name": "本地｜视频",
-            "type": 3,
-            "api": "csp_LocalFile"
-        },
-        {
-            "key": "配置中心",
-            "name": "配置｜中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "南瓜弹幕",
-            "name": "南瓜｜弹幕",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
+       
+        
         {
             "key": "厂长弹幕",
             "name": "厂长｜弹幕",
@@ -72,18 +43,6 @@
             }
         },
         {
-            "key": "热播弹幕",
-            "name": "热播｜弹幕",
-            "type": 3,
-            "api": "csp_ReBo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "文才弹幕",
             "name": "文才｜弹幕",
             "type": 3,
@@ -95,39 +54,7 @@
                 "danmu": true
             }
         },
-        {
-            "key": "哔哩弹幕",
-            "name": "哔哩｜弹幕",
-            "type": 3,
-            "api": "csp_Bilimd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "立播弹幕",
-            "name": "立播｜弹幕",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://libvio.link",
-                "danmu": true
-            }
-        },
+        
         {
             "key": "三六零弹幕",
             "name": "三六零｜弹幕",
@@ -157,6 +84,30 @@
             "name": "小苹果｜弹幕",
             "type": 3,
             "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "一起看弹幕",
+            "name": "一起看｜弹幕",
+            "type": 3,
+            "api": "csp_Yqk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "JOJO弹幕",
+            "name": "JOJO｜弹幕",
+            "type": 3,
+            "api": "csp_Jiohub",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -201,8 +152,8 @@
             "key": "天堂短剧",
             "name": "天堂｜短剧",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/天堂短剧.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/天堂短剧.js"
         },
         {
             "key": "爱你短剧",
@@ -212,7 +163,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/爱你短剧.json"
+            "ext": "./影视/XYQHiker/爱你短剧.json"
         },
         {
             "key": "河马短剧",
@@ -222,7 +173,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/河马短剧.json"
+            "ext": "./影视/XYQHiker/河马短剧.json"
         },
         {
             "key": "短剧屋",
@@ -232,27 +183,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/短剧屋.json"
+            "ext": "./影视/XYQHiker/短剧屋.json"
         },
-        {
-            "key": "韩小圈",
-            "name": "韩小圈｜APP",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "追剧猫",
-            "name": "追剧猫｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
-        },
+        
+        
         {
             "key": "酷影视",
             "name": "酷影视｜APP",
@@ -263,25 +197,7 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-        {
-            "key": "新感觉",
-            "name": "新感觉｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://43.248.100.147:9892/api.php/app/"
-        },
-        {
-            "key": "南瓜影视",
-            "name": "南瓜｜APP",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "天天影视",
             "name": "天天｜APP",
@@ -319,15 +235,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "笙歌影视",
-            "name": "笙歌｜APP",
-            "type": 3,
-            "api": "csp_AppYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "忍者影视",
             "name": "忍者｜APP",
@@ -342,10 +250,10 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "./影视/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
+            "ext": "./影视/JS/采集之王.js?type=url&params=../影视/JSON/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
@@ -383,21 +291,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "立播影视",
-            "name": "立播｜影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://libvio.link"
-            }
-        },
+        
         {
             "key": "饺子影视",
             "name": "饺子｜影视",
@@ -551,7 +445,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/新视觉.json"
+            "ext": "./影视/XBPQ/新视觉.json"
         },
         {
             "key": "电影牛",
@@ -561,105 +455,112 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/电影牛.json"
+            "ext": "./影视/XYQHiker/电影牛.json"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇艺｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/爱奇艺.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/爱奇艺.js"
         },
         {
             "key": "三六零",
             "name": "三六零｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/三六零.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/三六零.js"
         },
         {
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/剧圈圈.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/追剧迷.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/追剧迷.js"
         },
         {
             "key": "看了么",
             "name": "看了么｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/看了么.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "茶杯狐｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/茶杯狐.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/茶杯狐.js"
+        },
+        {
+            "key": "在线之家",
+            "name": "在线｜影视",
+            "type": 3,
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/在线之家.js"
         },
         {
             "key": "魔力高清",
             "name": "魔力｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/魔力高清.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/魔力高清.js"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/腾讯视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/优酷视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/芒果视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/搜狗视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/搜狗视频.js"
         },
         {
             "key": "哔哩视频",
             "name": "哔哩｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/哔哩视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/哔哩视频.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/碟调影视.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/碟调影视.js"
         },
         {
             "key": "畅梦影视",
             "name": "畅梦｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/畅梦影视.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/畅梦影视.js"
         },
         {
             "key": "五五影视",
@@ -669,7 +570,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/五五影视.json"
+            "ext": "./影视/XBPQ/五五影视.json"
         },
         {
             "key": "子子影视",
@@ -679,7 +580,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/子子影视.json"
+            "ext": "./影视/XYQHiker/子子影视.json"
         },
         {
             "key": "奇趣影视",
@@ -689,7 +590,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/奇趣影视.json"
+            "ext": "./影视/XYQHiker/奇趣影视.json"
         },
         {
             "key": "蚂蚁资源",
@@ -925,22 +826,8 @@
                 "日韩综艺",
                 "欧美综艺"
             ]
-        },
-        {
-            "key": "push_agent",
-            "name": "手机｜推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
-            }
         }
+        
     ],
     "parses": [
         {
