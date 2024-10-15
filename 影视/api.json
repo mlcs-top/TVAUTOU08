@@ -165,30 +165,6 @@
             }
         },
         {
-            "key": "一起看弹幕",
-            "name": "一起看｜弹幕",
-            "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "JOJO弹幕",
-            "name": "JOJO｜弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "无忧短剧",
             "name": "无忧｜短剧",
             "type": 3,
@@ -225,8 +201,8 @@
             "key": "天堂短剧",
             "name": "天堂｜短剧",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/天堂短剧.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/天堂短剧.js"
         },
         {
             "key": "爱你短剧",
@@ -236,7 +212,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/爱你短剧.json"
+            "ext": "./影视/XYQHiker/爱你短剧.json"
         },
         {
             "key": "河马短剧",
@@ -246,7 +222,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/河马短剧.json"
+            "ext": "./影视/XYQHiker/河马短剧.json"
         },
         {
             "key": "短剧屋",
@@ -256,7 +232,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/短剧屋.json"
+            "ext": "./影视/XYQHiker/短剧屋.json"
         },
         {
             "key": "韩小圈",
@@ -288,14 +264,14 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "key": "丘丘影视",
-            "name": "丘丘｜APP",
+            "key": "新感觉",
+            "name": "新感觉｜APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://111.173.115.204:2211/api.php/app/"
+            "ext": "http://43.248.100.147:9892/api.php/app/"
         },
         {
             "key": "南瓜影视",
@@ -366,10 +342,10 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "./影视/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
+            "ext": "./影视/JS/采集之王.js?type=url&params=../影视/JSON/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
@@ -575,7 +551,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/新视觉.json"
+            "ext": "./影视/XBPQ/新视觉.json"
         },
         {
             "key": "电影牛",
@@ -585,105 +561,105 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/电影牛.json"
+            "ext": "./影视/XYQHiker/电影牛.json"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇艺｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/爱奇艺.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/爱奇艺.js"
         },
         {
             "key": "三六零",
             "name": "三六零｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/三六零.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/三六零.js"
         },
         {
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/剧圈圈.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/追剧迷.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/追剧迷.js"
         },
         {
             "key": "看了么",
             "name": "看了么｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/看了么.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "茶杯狐｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/茶杯狐.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/茶杯狐.js"
         },
         {
             "key": "魔力高清",
             "name": "魔力｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/魔力高清.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/魔力高清.js"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/腾讯视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/优酷视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/芒果视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/搜狗视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/搜狗视频.js"
         },
         {
             "key": "哔哩视频",
             "name": "哔哩｜视频",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/哔哩视频.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/哔哩视频.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/碟调影视.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/碟调影视.js"
         },
         {
             "key": "畅梦影视",
             "name": "畅梦｜影视",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/畅梦影视.js"
+            "api": "./影视/JS/drpy2.min.js",
+            "ext": "./影视/JS/畅梦影视.js"
         },
         {
             "key": "五五影视",
@@ -693,7 +669,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/五五影视.json"
+            "ext": "./影视/XBPQ/五五影视.json"
         },
         {
             "key": "子子影视",
@@ -703,7 +679,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/子子影视.json"
+            "ext": "./影视/XYQHiker/子子影视.json"
         },
         {
             "key": "奇趣影视",
@@ -713,7 +689,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/奇趣影视.json"
+            "ext": "./影视/XYQHiker/奇趣影视.json"
         },
         {
             "key": "蚂蚁资源",
@@ -1002,9 +978,140 @@
             }
         },
         {
-            "name": "推荐4K",
-            "type": 1,
-            "url": "http://jx.jwl.icu/jx.php?url="
+            "name": "XG蓝光",
+            "url": "http://43.248.100.147:6068/bba/xgjjiexi.php?url=",
+            "flag": [
+                "BBA"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XM蓝光",
+            "url": "http://121.62.61.51:6888/api/?key=wyn1txZX5RKA2kVFUX&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "MX蓝光",
+            "url": "http://122.51.15.119:1234/home/api?type=ys&cc=&uid=52565&key=bfhorsvAEGHMRV3469&url=",
+            "flag": [
+                "MXTV"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "LX蓝光",
+            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+            "flag": [
+                "LXTX"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "TX蓝光",
+            "url": "http://43.248.100.147:9527/jx.php?url=",
+            "flag": [
+                "TX"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "MY蓝光",
+            "url": "http://zy.uiovo.com/api/?key=85907fa019f741cdf0e0a15ec078ca0a&ud=113&url=",
+            "flag": [
+                "mytv",
+                "nmys",
+                "yhdm"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "BN蓝光",
+            "url": "http://43.248.128.138:1111/home/api?type=ys&uid=3085188&key=egioqrtxzABORUW269&url=",
+            "flag": [
+                "BNNB"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "DJ专线",
+            "url": "http://jx.voooe.cn/api/?key=aa70f97f8c109a3c6937ea27a98da6e0&url=",
+            "flag": [
+                "duanju"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XGJ官解",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/gg.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "sohu",
+                "letv",
+                "xigua"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XGJ聚合",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/k.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "pptv",
+                "xigua",
+                "NBY",
+                "ETH-",
+                "BBA",
+                "LXTX",
+                "TX",
+                "MXTV",
+                "mytv",
+                "nmys",
+                "yhdm",
+                "BNNB",
+                "duanju"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
         },
         {
             "name": "线路1",
@@ -1130,18 +1237,6 @@
                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "一起看广告",
-            "hosts": [
-                "yqk88"
-            ],
-            "regex": [
-                "18.4",
-                "15.1666",
-                "16.5333",
-                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
             ]
         },
         {
