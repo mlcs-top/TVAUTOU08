@@ -1,9 +1,5 @@
-#配置地址简易设定流程
-//我的-->设置-->配置地址-->请输入https://agit.ai/wwz09/ubuntu/raw/branch/master/main.json-->确定
-
-
 {
-"spider":"./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+    "spider": "./spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
 //"spider":"./JAR/fm.jar",
 //"spider":"./JAR/Yoursmile.jar",
 //"spider":"./JAR/fanty.jar",
@@ -55,6 +51,18 @@
        
         
         {
+            "key": "南瓜弹幕",
+            "name": "南瓜｜弹幕",
+            "type": 3,
+            "api": "csp_Nangua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
             "key": "厂长弹幕",
             "name": "厂长｜弹幕",
             "type": 3,
@@ -71,6 +79,18 @@
             "name": "天天｜弹幕",
             "type": 3,
             "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "热播弹幕",
+            "name": "热播｜弹幕",
+            "type": 3,
+            "api": "csp_ReBo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -120,30 +140,6 @@
             "name": "小苹果｜弹幕",
             "type": 3,
             "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "一起看弹幕",
-            "name": "一起看｜弹幕",
-            "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "JOJO弹幕",
-            "name": "JOJO｜弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -221,8 +217,25 @@
             "filterable": 1,
             "ext": "./影视/XYQHiker/短剧屋.json"
         },
-        
-        
+        {
+            "key": "韩小圈",
+            "name": "韩小圈｜APP",
+            "type": 3,
+            "api": "csp_HanXiaoQuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "追剧猫",
+            "name": "追剧猫｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jingxiang.lingutv.cn/api.php/app/"
+        },
         {
             "key": "酷影视",
             "name": "酷影视｜APP",
@@ -233,7 +246,25 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-
+        {
+            "key": "新感觉",
+            "name": "新感觉｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.100.147:9892/api.php/app/"
+        },
+        {
+            "key": "南瓜影视",
+            "name": "南瓜｜APP",
+            "type": 3,
+            "api": "csp_Nangua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "天天影视",
             "name": "天天｜APP",
@@ -271,7 +302,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-       
+        {
+            "key": "笙歌影视",
+            "name": "笙歌｜APP",
+            "type": 3,
+            "api": "csp_AppYY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
         {
             "key": "忍者影视",
             "name": "忍者｜APP",
@@ -534,13 +573,6 @@
             "type": 3,
             "api": "./影视/JS/drpy2.min.js",
             "ext": "./影视/JS/茶杯狐.js"
-        },
-        {
-            "key": "在线之家",
-            "name": "在线｜影视",
-            "type": 3,
-            "api": "./影视/JS/drpy2.min.js",
-            "ext": "./影视/JS/在线之家.js"
         },
         {
             "key": "魔力高清",
