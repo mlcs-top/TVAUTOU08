@@ -22,7 +22,7 @@
 #直播
 
 "lives":[
-{"name":"a","type":0,"url":"./TXT/a.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+//{"name":"a","type":0,"url":"./TXT/a.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"a","type":0,"url":"https://raw.kkgithub.com/wwz09/collect-tv-txt/main/merged_output.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"b","type":0,"url":"./TXT/b.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"c","type":0,"url":"./TXT/c.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
