@@ -22,7 +22,7 @@
 #直播
 
 "lives":[
-{"name":"live","type":0,"url":"https://jsd.proxy.aks.moe/gh/wwz09/live@main/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live","type":0,"url":"https://gitdl.cn/https://raw.githubusercontent.com/wwz09/TBOXTV/main/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"merged","type":0,"url":"https://raw.kkgithub.com/wwz09/collect-tv-txt/main/merged_output.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"a","type":0,"url":"./TXT/a.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"c","type":0,"url":"./TXT/c.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
