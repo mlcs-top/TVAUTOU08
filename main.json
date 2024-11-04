@@ -1463,18 +1463,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "短剧合集",
-            "name": "短剧｜合集",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/短剧合集.js",
-            "style": {
-                "type": "list"
-            }
         }
-        
+          
     ],
 
 /*----------------------视频解析-----------------------*/
