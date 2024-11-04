@@ -1183,7 +1183,7 @@
                 "danmu": true
             }
         },
-        {
+    
         {
             "key": "腾讯弹幕",
             "name": "腾讯｜弹幕",
@@ -1308,7 +1308,7 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/四维空间弹幕.js"
-        },
+              {
                 "danmu": true
             }
         },
