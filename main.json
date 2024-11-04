@@ -48,152 +48,7 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-       
-        
-        {
-            "key": "南瓜弹幕",
-            "name": "南瓜｜弹幕",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "厂长弹幕",
-            "name": "厂长｜弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "天天弹幕",
-            "name": "天天｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "热播弹幕",
-            "name": "热播｜弹幕",
-            "type": 3,
-            "api": "csp_ReBo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "糯米弹幕",
-            "name": "糯米｜弹幕",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        
-        {
-            "key": "悠悠弹幕",
-            "name": "悠悠｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/悠悠弹幕.js"
-        },
-        {
-            "key": "星河弹幕",
-            "name": "星河｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/星河弹幕.js"
-        },
-        {
-            "key": "小熊弹幕",
-            "name": "小熊｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/小熊弹幕.js"
-        },
-        {
-            "key": "巨人弹幕",
-            "name": "巨人｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/巨人弹幕.js"
-        },
-        {
-            "key": "小虎斑弹幕",
-            "name": "小虎斑｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/小虎斑弹幕.js"
-        },
-        {
-            "key": "三六零弹幕",
-            "name": "三六零｜弹幕",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "小苹果弹幕",
-            "name": "小苹果｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
+  
         {
             "key": "无忧短剧",
             "name": "无忧｜短剧",
@@ -452,7 +307,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-       
+
         {
             "key": "饺子影视",
             "name": "饺子｜影视",
@@ -1183,7 +1038,7 @@
                 "danmu": true
             }
         },
-    
+ 
         {
             "key": "腾讯弹幕",
             "name": "腾讯｜弹幕",
@@ -1308,9 +1163,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/四维空间弹幕.js"
-              {
-                "danmu": true
-            }
         },
         {
             "key": "荐片",
@@ -1463,8 +1315,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+ 
+        {
+            "key": "短剧合集",
+            "name": "短剧｜合集",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/短剧合集.js",
+            "style": {
+                "type": "list"
+            }
         }
-          
+ 
     ],
 
 /*----------------------视频解析-----------------------*/
