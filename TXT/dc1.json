@@ -1,27 +1,76 @@
-{"urls": [
-{"name":"自用","url": "https://raw.kkgithub.com/wwz09/ubuntu/main/main.json"},
-{"name": "MY俊俊", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY俊俊.txt"},
-{"name": "MY巧巧", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY巧巧.txt"},
-{"name": "MY探探", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY探探.txt"},
-{"name": "MY桐桐", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY桐桐.txt"},
-{"name": "MY欧歌", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY欧歌.txt"},
-{"name": "MY洒哥", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY洒哥.txt"},
-{"name": "MY猫猫", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY猫猫.txt"},
-{"name": "MY空空", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY空空.txt"},
-{"name": "MY自用标清", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY自用标清.txt"},
-{"name": "MY荷城茶秀", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY荷城茶秀.txt"},
-{"name": "MY要要", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/MY要要.txt"},
-{"name": "taoiptv源", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/taoiptv源.txt"},
-{"name": "ware体育", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/ware体育.txt"},
-{"name": "ware影视", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/ware影视.txt"},
-{"name": "ware教育", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/ware教育.txt"},
-{"name": "ware文艺", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/ware文艺.txt"},
-{"name": "ware直播", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/ware直播.txt"},
-{"name": "ware磁力", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/ware磁力.txt"},
-{"name": "大卫", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/大卫.txt"},
-{"name": "小雅TV", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/小雅TV.txt"},
-{"name": "欧哥", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/欧哥.txt"},
-{"name": "王小二", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/王小二.txt"},
-{"name": "运输车{跑马灯}", "url": "https://raw.kkgithub.com/vbskycn/tvbox/main/运输车{跑马灯}.txt"}
-
-]}
+{
+    "urls": [
+        {
+            "url": "https://肥猫.com",
+            "name": "🚀1-肥猫"
+        },
+        {
+            "url": "https://www.饭太硬.com/tv",
+            "name": "🚀2-饭太硬推荐"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀3-健康家用"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "🚀4-宝盒线路"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀5-王二小"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+            "name": "🚀6-FongMI线路"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀7-巧计线路"
+        },
+        {
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "🚀8-小米"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀9-运输车路"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "🚀10-骚 0线路"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀11-高天流云js"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀12-高天流云 XYQ"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🚀13-影探线路"
+        },
+        {
+            "url": "http://dxawi.github.io/0/0.json",
+            "name": "🚀14-dxawi线路"
+        },
+        {
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀15-南风"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🚀16-小马线路"
+        },
+        {
+            "url": "https://www.wya6.cn/tv/yc.json",
+            "name": "🚀17-无意线路"
+        },
+        {
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🚀18-潇洒哥线路"
+        }
+    ]
+}
