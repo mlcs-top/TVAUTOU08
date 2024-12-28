@@ -22,7 +22,7 @@
 #直播
 
 "lives":[
-//{"name":"live","type":0,"url":"https://gitdl.cn/https://raw.githubusercontent.com/wwz09/TBOXTV/main/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+//{"name":"live","type":0,"url":"https://raw.kkgithub.com/wwz09/collect-tv-txt/main/merged_output.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPTV","type":0,"url":"https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"a","type":0,"url":"./TXT/a.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"APTV","type":0,"url":"https://gitdl.cn/https://raw.githubusercontent.com/wwz09/IPTV/master/m3u/iptv.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
