@@ -1,5 +1,6 @@
 {
     "urls": [
+    { "url": "https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc.json","name":"仓库更新"},
         {
             "url": "https://肥猫.com",
             "name": "🚀1-肥猫"

@@ -1,5 +1,6 @@
 {"urls":
 [
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc.json","name":"仓库更新"},
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/main.json","name":"自用"},
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json",
