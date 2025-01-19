@@ -1,9 +1,9 @@
 {
 "storeHouse": [
 
-{"sourceName":"默认1号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/mr.json"},
-{"sourceName":"默认2号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc1.json"},
-{"sourceName":"默认3号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc2.json"},
+{"sourceName":"默认1号仓库","sourceUrl":"https://cdn.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/mr.json"},
+{"sourceName":"默认2号仓库","sourceUrl":"https://cdn.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/dc1.json"},
+{"sourceName":"默认3号仓库","sourceUrl":"https://cdn.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/dc2.json"},
 {"sourceName":"默认4号仓库","sourceUrl":"https://xn--p66p-rp5imh.v.nxog.top/nxog/ou1.php?b=p6欧歌6p"},
-{"sourceName":"默认5号仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/wwz09/ubuntu/main/TXT/dc3.json"}
+{"sourceName":"默认5号仓库","sourceUrl":"https://cdn.jsdelivr.net/gh/wwz09/ubuntu@main/TXT/dc3.json"}
 ]}
