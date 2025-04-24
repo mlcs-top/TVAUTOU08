@@ -1,64 +1,136 @@
 {
-	"urls": [
+    "urls": [
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json",
-            "name": "饭太硬"
+            "url": "http://肥猫.com",
+            "name": "🚀1-肥猫"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json",
-            "name": "小米"
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "🚀2-饭太硬推荐"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json",
-            "name": "肥猫"
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀3-摸鱼接口"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json",
-            "name": "香雅情[原]"
+            "url": "http://ok321.top/tv",
+            "name": "🚀4-OK线路"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/drpy_t3/api.json",
-            "name": "drpy_t3精选"
+            "url": "https://100km.top/0",
+            "name": "🚀5-騷零接口"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json",
-            "name": "南风"
+            "url": "https://mirror.ghproxy.com/https:/raw.githubusercontent.com/FongMi/CatVodspider/main/json/demo.json",
+            "name": "🚀6-蜂蜜接口"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json",
-            "name": "PG"
+            "url": "https://3450.kstore.space/DEMO.json",
+            "name": "🚀7-小米DEMO"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json",
-            "name": "摸鱼儿"
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "🚀8-小米DEMO2"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/短剧频道/api.json",
-            "name": "短剧频道"
+            "url": "http://ok321.top/ok",
+            "name": "🚀9-OK佬"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/欧歌/api.json",
-            "name": "欧歌"
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀10-王二小放牛娃"
         },
         {
-        	"url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json",
-            "name": "王二小"
+            "url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv",
+            "name": "🚀11-欧歌免费"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json",
-            "name": "潇洒"
+            "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json",
+            "name": "🚀12-小橙子"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json",
-            "name": "戏曲音乐"
+            "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json",
+            "name": "🚀13-魔盒接口"
         },
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json",
-            "name": "天天开心"
+            "url": "http://fmys.top/fmys.json",
+            "name": "🚀14-驸马影视"
         },
         {
-        	"url": "https://ghproxy.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json",
-            "name": "少儿频道"
+            "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+            "name": "🚀15-ocean2025"
+        },
+        {
+            "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "🚀16-挺好分享"
+        },
+        {
+            "url": "http://tv.nxog.top/m",
+            "name": "🚀17-欧歌4K"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🚀18-巧记Box"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.ison",
+            "name": "🚀19-传说blog"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com/quot55/GBH/main/vip2.json",
+            "name": "🚀20-宝盒VIP"
+        },
+        {
+            "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BAjson",
+            "name": "🚀21-蓝天Luck"
+        },
+        {
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "🚀22-香雅情短剧"
+        },
+        {
+            "url": "http://124.71.189.194/ajson",
+            "name": "🚀23-小白龙"
+        },
+        {
+            "url": "https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json",
+            "name": "🚀24-林中的小屋"
+        },
+        {
+            "url": "http://yuhuahx.com/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php",
+            "name": "🚀25-恒星育华"
+        },
+        {
+            "url": "https:/ghp.ci/https:/raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.xt",
+            "name": "🚀26-影探"
+        },
+        {
+            "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+            "name": "🚀27-不是青龙"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/",
+            "name": "🚀28-毒盒多仓"
+        },
+        {
+            "url": "https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json",
+            "name": "🚀29-蓝色影视"
+        },
+        {
+            "url": "https://bitbucket.org/xduo/cool/raw/main/room.json",
+            "name": "🚀30-多多影音"
+        },
+        {
+            "url": "https://qixing.myhkw.com/DC.txt",
+            "name": "🚀31-七星宝盒"
+        },
+        {
+            "url": "https://gitee.com/sxxxxxw/qi/raw/master/qiqiall.json",
+            "name": "🚀32-奇奇多仓"
+        },
+        {
+            "url": "http://xmbjm.fh4u.org/dc.txt",
+            "name": "🚀33-拾光多仓"
         }
     ]
 }
